@@ -7,7 +7,6 @@ GIFT_TRACK = [
     {"time_mark": "00:49.5", "text": "I guess I'ma just wait my turn\nWake up, what I'm gonna make of myself?"},
     {"time_mark": "00:53.1", "text": "It's another day, gotta spend it well\nI'ma just take my L"},
     {"time_mark": "00:57.5", "text": "How many more 'til I hate myself?\nUh, had to learn to take my L"},
-    # Исправлено с 01:04.1 на 01:02.1 (-2 секунды), последующие таймкоды также смещены
     {"time_mark": "01:02.1", "text": "Been three weeks, didn't take that well\nI swear that it felt like Hell"},
     {"time_mark": "01:06.9", "text": "Waiting all day just to hear that bell\nI threw every penny in the well"},
     {"time_mark": "01:08.5", "text": "Turns out I gotta do it myself (Do it myself)\nI'll do it all my, I'll do it all my"},
